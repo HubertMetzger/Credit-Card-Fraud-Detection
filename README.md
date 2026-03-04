@@ -19,6 +19,7 @@ Analysis of 284,807 credit card transactions (Kaggle dataset - https://www.kaggl
 * **Data Modeling**: Optimized `creditcard` table with high-precision decimal formatting (4 places).
 * **UX/UI**: Overlay techniques and custom marker formatting for better visibility.
 
+### [📷 See screnshots](./Screenshots/)
 ---
 
 ## Wersja Polska
@@ -35,6 +36,9 @@ Analiza 284,807 transakcji kartowych (zbiór danych Kaggle - https://www.kaggle.
 * **DAX**: Miary sumujące, średnie i filtry kontekstowe.
 * **Modelowanie danych**: Optymalizacja tabeli `creditcard` i ustawienie precyzji (4 miejsca po przecinku).
 * **UX/UI**: Techniki nakładania warstw (Overlay) oraz autorskie formatowanie znaczników dla lepszej czytelności.
+
+### [📷 Zobacz zrzuty ekranu raportu](./Screenshots/)
+
 
 ---
 *Created as a demonstration of data analysis and visualization skills in Power BI.*
