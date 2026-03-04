@@ -6,7 +6,7 @@
 
 ## English Version
 ### 📊 Project Overview
-Analysis of 284,807 credit card transactions (Kaggle dataset) to detect fraud patterns. The project was built in **Power BI**, focusing on visualizing anomalies in PCA-transformed features (V1-V28).
+Analysis of 284,807 credit card transactions (Kaggle dataset - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) to detect fraud patterns. The project was built in **Power BI**, focusing on visualizing anomalies in PCA-transformed features (V1-V28).
 
 ### 📑 Report Structure (4 Pages)
 1. **Executive Risk Overview**: Key Performance Indicators (492 fraud incidents) and general security statistics.
@@ -23,7 +23,7 @@ Analysis of 284,807 credit card transactions (Kaggle dataset) to detect fraud pa
 
 ## Wersja Polska
 ### 📊 O projekcie
-Analiza 284,807 transakcji kartowych (zbiór danych Kaggle) w celu wykrycia wzorców oszustw. Projekt wykonany w **Power BI**, skupiający się na wizualizacji anomalii w zmiennych po transformacji PCA (V1-V28).
+Analiza 284,807 transakcji kartowych (zbiór danych Kaggle - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) w celu wykrycia wzorców oszustw. Projekt wykonany w **Power BI**, skupiający się na wizualizacji anomalii w zmiennych po transformacji PCA (V1-V28).
 
 ### 📑 Struktura Raportu (4 Strony)
 1. **Executive Risk Overview**: Główne wskaźniki KPI (492 incydenty) i ogólna statystyka bezpieczeństwa.
